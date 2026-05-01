@@ -1,0 +1,1 @@
+Repositorio del proyecto intermodular “Optimización de reglas de firewall basada en logs”, con la memoria, la presentación, los datos analizados y el script en Python desarrollado como apoyo al proyecto.
